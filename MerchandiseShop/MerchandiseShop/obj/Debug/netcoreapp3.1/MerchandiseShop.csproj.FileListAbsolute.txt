@@ -1,0 +1,14 @@
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.exe
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.deps.json
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.runtimeconfig.json
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.runtimeconfig.dev.json
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.dll
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\bin\Debug\netcoreapp3.1\MerchandiseShop.pdb
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.csproj.AssemblyReference.cache
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.GeneratedMSBuildEditorConfig.editorconfig
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.AssemblyInfoInputs.cache
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.AssemblyInfo.cs
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.csproj.CoreCompileInputs.cache
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.dll
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.pdb
+P:\MCC\Tugas\MerchandiseShop\MerchandiseShop\obj\Debug\netcoreapp3.1\MerchandiseShop.genruntimeconfig.cache
